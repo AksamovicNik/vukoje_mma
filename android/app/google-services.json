@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "732924428061",
+    "project_id": "vukoje-mma",
+    "storage_bucket": "vukoje-mma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732924428061:android:ac32b1c1bbc71ae9a2ebf4",
+        "android_client_info": {
+          "package_name": "com.vukojemma.vukoje_mma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732924428061-558enpclijb8eccrggf5o6b2a8d3u7md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vukojemma.vukoje_mma",
+            "certificate_hash": "ed53cbdb177aa991b2de731551b2543b96fbffd4"
+          }
+        },
+        {
+          "client_id": "732924428061-9mjuhid7m94akl8v14tsd61demkkegi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgz8tUSF5rVJvvdnPal5tlj1F6h2Gk6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732924428061-9mjuhid7m94akl8v14tsd61demkkegi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
